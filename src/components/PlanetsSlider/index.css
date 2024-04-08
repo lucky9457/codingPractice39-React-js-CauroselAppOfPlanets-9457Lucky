@@ -1,0 +1,17 @@
+/* Write your CSS here */
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.mainCont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  min-height: 100vh;
+  margin: 0px;
+  padding: 0px;
+  padding: 70px;
+  color: white;
+}
+.planetshead {
+  text-align: center;
+  color: blue;
+}

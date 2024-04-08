@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.Planetaimge {
+  height: 200px;
+}
+.LISTcONT {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+
+  list-style: none;
+}
